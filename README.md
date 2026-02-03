@@ -3,7 +3,7 @@
 This repository contains a Python-based analysis toolkit for the adsorption of **Malachite Green** dye. It automates the calculation of kinetic, isotherm, and thermodynamic parameters using experimental data.
 
 ## Files Description
-* `Adsorption_Analysis.ipynb`: The main Jupyter Notebook containing the code and plots.
+* `adsorption_analysis.ipynb`: The main Jupyter Notebook containing the code and plots.
 * `malachite_data.xlsx`: Experimental data (Kinetics, Isotherms, Thermodynamics).
 * `requirements.txt`: List of required Python libraries.
 
